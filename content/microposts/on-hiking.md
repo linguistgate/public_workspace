@@ -2,7 +2,7 @@
 title = "On Hiking"
 date = 2018-03-31T23:18:36+02:00
 draft = false
-tags = [hiking]
+tags = []
 categories = []
 +++
 
