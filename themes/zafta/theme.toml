@@ -1,0 +1,9 @@
+name = "Zafta"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
+description = "a minimal working tempalte"
+homepage = "http://example.com/"
+tags = ["tags", "categories"]
+
+[author]
+  name = "Matthew E. Adams"
