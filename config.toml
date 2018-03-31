@@ -6,7 +6,7 @@ theme = "hugo-kiera"
 
 MetaDataFormat = "toml"
 
-paginate = 3
+paginate = 5
 
 summaryLength = 30
 enableEmoji = true
