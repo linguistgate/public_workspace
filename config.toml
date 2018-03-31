@@ -16,6 +16,8 @@ SectionPagesMenu = "main"
 
 [author]
     name = "Matthew Edward Adams"
+    Handle = "linguistgate"
+    AboutPage = "/about"
     github = "linguistgate"
     gitlab = ""
     linkedin = ""
