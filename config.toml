@@ -12,6 +12,8 @@ summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
 
+SectionPagesMenu = "main"
+
 [author]
     name = "Matthew Edward Adams"
     github = "linguistgate"
@@ -22,8 +24,29 @@ pygmentsCodeFences = true
     instagram = "matthew.e.adams"
 
 [params]
+    RSSections = [ "Posts", "Microposts", "Photos"]
     tagline = "The public workspace of Matthew E. Adams"
 
 [permalinks]
 	page = "/:title/"
 	about = "/:filename/"
+
+[[menu.main]]
+	name = "Posts"
+	weight = 1
+	identifier = "posts"
+	url = "/posts/"
+
+[[menu.main]]
+	name = "Microposts"
+	weight = 2
+	identifier = "microposts"
+	url = "/microposts/"
+
+[[menu.main]]
+	name = "Photos"
+	weight = 3
+	identifier = "photos"
+	url = "/photos/"
+
+
