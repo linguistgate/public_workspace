@@ -1,10 +1,10 @@
----
-title:  "On Hiking to Bibémus"
-date:   2016-03-01 09:40:36 +0100
-description: "The area east of Aix-en-Provence with some personal reflections"
-Categories: [hikes]
-Tags: [france, hiking]
----
++++
+title =  "On Hiking to Bibémus"
+date =  2016-03-01T09:40:36+01:00
+description = "The area east of Aix-en-Provence with some personal reflections"
+tags = ["france", "hiking"]
+categories = ["hikes"]
++++
 
 The path that leads to the Carrières de Bibémus starts just past the
  Lycée Paul Cézanne. It's a multi-use road all the way to the plateau,

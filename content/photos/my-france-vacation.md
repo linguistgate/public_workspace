@@ -1,8 +1,8 @@
 +++
 title = "A View with Room"
 date = 2018-03-31T14:15:25+02:00
-tags = []
-categories = []
+tags = ["france", "cezanne", "stvictoire"]
+categories = ["travel"]
 +++
 
 <figure>
