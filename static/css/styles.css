@@ -83,7 +83,11 @@ time {
 }
 
 #container header h1 {
-  font-size: 3.5rem;
+  font-size: 3.2rem;
+}
+
+#container header p {
+  font-size: 1.2em;
 }
 
 #container header h1 a {
@@ -103,10 +107,10 @@ time {
 }
 
 @media only screen and (max-width: 800px) {
-  #container header ul {
+    #container header ul {
     float: none;
   }
-  #container header ul li {
+    #container header ul li {
     margin: 0 1em 0 0;
   }
 }
@@ -115,6 +119,7 @@ time {
   border-bottom: solid 3px #cecece;
   padding-bottom: 0.5em;
   font-family: "et-book", serif;
+  font-size: 1.2em;
 }
 
 #container nav ul {
