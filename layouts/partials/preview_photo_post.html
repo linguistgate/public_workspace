@@ -1,9 +1,20 @@
 <article class="photo">
 
   <div class="preview">
-    <div class="title">
-      <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+    <!-- <div class="title"> -->
+    <!--   <h2><span><a href="{{ .Permalink }}">{{ .Title }}</a></span></h2> -->
+    <!-- </div> -->
+    <div class="postmeta">Posted on <time datetime="{{ .Date }}" pubdate="">{{ .Date.Format "January 2, 2006" }}</time>
+    {{ if (isset .Params "categories") }}
+       in
+      <span class="categories">
+        {{ range $i, $v := .Params.categories }}
+          <a class="category" href="/categories/{{ $v | urlize }}">{{ $v }}</a>{{ if ne (len $.Params.categories) (add $i 1) }}, {{ end }}
+        {{ end }}
+      </span>
+    {{ end }}
     </div>
+    
     <div class="featured-image">
       {{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}
     </div>
