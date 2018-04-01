@@ -1,5 +1,5 @@
 +++
-title = "On Railroads in _Blood Meridian_"
+title = "On Railroads and the Judge"
 date = 2018-04-01T16:10:35+02:00
 draft = false
 tags = ["writing", "westerns", "wonderings"]
