@@ -4,6 +4,9 @@
     <div class="title">
       <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
     </div>
+    <div class="featured-image">
+      {{ with .Params.featured_image }}<img src="{{ . }}" style='width:50%;'>{{ end }}
+    </div>
     <div class="content">
       <a href="{{ .Permalink }}">{{ .Summary }}</a>
     </div>
