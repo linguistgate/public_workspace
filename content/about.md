@@ -15,3 +15,5 @@ My educational background is in linguistics (Ph.D. and M.A., Stanford University
 <a href="/docs/resume_matthew-edward-adams.pdf">My résumé is located here</a>.
 
 <a href="/docs/cv_matthew-edward-adams.pdf">My academic curriculum vitae is located here</a>.
+
+_The title of my public web presence, Phantisocracy, refers to the utopian ideal set forth by Samuel Taylor Coleridge and Robert Southey in the 1790s. Their pantisocratic ideals were never concretely realized. A phantisocracy is my term of art for any utopian scheme that remains hypothetical._
