@@ -3,7 +3,7 @@ title =  "On Hiking to Bibémus"
 date =  2016-03-01T09:40:36+01:00
 description = "The area east of Aix-en-Provence with some personal reflections"
 tags = ["france", "hiking"]
-categories = ["hikes", "travel"]
+categories = ["Walking", "Travel"]
 +++
 
 The path that leads to the Carrières de Bibémus starts just past the
