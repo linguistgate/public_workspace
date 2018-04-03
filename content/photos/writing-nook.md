@@ -9,5 +9,5 @@ featured_image = "images/vauvenargues-corner.png"
 
 <figure>
   <img src="/images/vauvenargues-corner.png" />
-  <figcaption>My happiness corner in France. Writing, buliding a second brain, and dreaming. Also, lots of cheese.</figcaption>
+  <figcaption>My happiness corner in France. Writing, building a second brain, and dreaming. Also, lots of cheese.</figcaption>
 </figure>
