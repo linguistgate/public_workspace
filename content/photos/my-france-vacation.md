@@ -8,5 +8,5 @@ featured_image = "images/mt-st-victoire-from-bibemus-2018-03-29.jpg"
 
 <figure>
   <img src="/images/mt-st-victoire-from-bibemus-2018-03-29.jpg" />
-  <figcaption>The creamy gray massif of Montaigne Sainte-Victoire rises in the distance.</figcaption>
+  <figcaption>The creamy gray massif of Montagne Sainte-Victoire rises in the distance.</figcaption>
 </figure>
