@@ -2,7 +2,7 @@
 title = "Digitial Humanities in Secondary Education: A Preview"
 date = 2016-03-04T16:52:10+02:00
 draft = false
-tags = ["blogging", "digitialhumnanities", "programming"]
+tags = ["blogging", "digitialhumanities", "programming"]
 categories = ["Digital Humanities"]
 +++
 
