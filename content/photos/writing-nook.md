@@ -4,6 +4,7 @@ date = 2018-04-03T15:39:06+02:00
 draft = false
 tags = ["france", "writing", "hygge"]
 categories = ["Writing"]
+featured_image = "images/vauvenargues-corner.png"
 +++
 
 <figure>
