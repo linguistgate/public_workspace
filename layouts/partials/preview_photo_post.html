@@ -1,9 +1,9 @@
 <article class="photo">
 
   <div class="preview">
-    <!-- <div class="title"> -->
-    <!--   <h2><span><a href="{{ .Permalink }}">{{ .Title }}</a></span></h2> -->
-    <!-- </div> -->
+    <div class="title">
+      <h2><span><a href="{{ .Permalink }}">{{ .Title }}</a></span></h2>
+    </div>
     <div class="postmeta">Posted on <time datetime="{{ .Date }}" pubdate="">{{ .Date.Format "January 2, 2006" }}</time>
     {{ if (isset .Params "categories") }}
        in
