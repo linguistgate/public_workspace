@@ -54,9 +54,9 @@ French. Why does the tenseness of French vowels come through even while
 speaking in whispers?
 
 ![Montagne Sainte-Victoire from
-Bibemus](/images/mt-st-victoire-from-bibemus.jpg)View of Montagne
+Bibemus](/images/mt-st-victoire-from-bibemus.jpg)<em>View of Montagne
 Sainte-Victoire from Bibémus Plateau. Le barrage de Zola is visible at
-center-right. (Photograph by the author)
+center-right.</em> (Photograph by the author)
 
 East of the plateau, the soil of the trail leading to Lac Zola and Lac
 du Bimont has a chalky, crumbling texture. The sound it makes against
