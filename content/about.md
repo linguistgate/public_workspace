@@ -16,6 +16,6 @@ My educational background is in linguistics (Ph.D. and M.A., Stanford University
 
 <a href="/docs/cv_matthew-edward-adams.pdf">My academic curriculum vitae is located here</a>.
 
-This website is maintained with the open source Hugo engine and is hosted (currently) on GitHub. I believe in maintaining control over my content even if the personal webpage has become sadly antiquated, and I hold fast to the idea that the Web should be a space of individual expression, not compartmentalization, fake amplifications, lock-downs, and lock-in. To that extent, my Web presence through Phantisocracy is political.
+This website is maintained with the open source Hugo engine and is hosted (currently) on GitHub. I believe in maintaining control over my content even if the personal webpage has become sadly antiquated, and I hold fast to the idea that the Web should be a space of contributory individual expression, not compartmentalization, reactionary amplification, lock-down, and lock-in. To that extent, my Web presence through Phantisocracy is political.
 
-_The title of my public web presence, Phantisocracy, refers to the utopian ideal set forth by Samuel Taylor Coleridge and Robert Southey in the 1790s. Their pantisocratic ideals were never concretely realized. A phantisocracy is my term of art for any utopian scheme that remains hypothetical._
+_The title of my public Web presence, Phantisocracy, refers to the utopian ideal set forth by Samuel Taylor Coleridge and Robert Southey in the 1790s. Their pantisocratic ideals were never concretely realized. A phantisocracy is my term of art for any utopian scheme that remains hypothetical._
