@@ -1,5 +1,5 @@
 +++
-title = "On Empire Ants"
+title = "On \u2018Empire Ants\u2019"
 date = 2018-04-03T16:00:10+02:00
 draft = false
 tags = ["music", "sublime", "politics", "conceptalbum", "worldbuilding"]
