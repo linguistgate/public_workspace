@@ -1,5 +1,5 @@
 +++
-title = "On Deep Purple\u2019s From Here to InFinite"
+title = "On Deep Purple\u2019s \u2018From Here to InFinite\u2019"
 date = 2018-04-06T12:00:21-07:00
 draft = false
 tags = ["music", "documentary", "mindfulness", "guitar"]
