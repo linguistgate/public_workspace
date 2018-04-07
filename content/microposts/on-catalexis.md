@@ -1,7 +1,7 @@
 +++
 title = "On Catalexis"
 date = 2018-04-07T09:42:26-07:00
-draft =false
+draft = false
 tags = ["phonology", "linguistics", "dissertation", "metrics", "humor"]
 categories = ["Linguistics"]
 +++
