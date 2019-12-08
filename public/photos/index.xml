@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Phantisocracy</title>
+    <link>http://www.matthew-edward-adams.org/photos/</link>
+    <description>Recent content in Photos on Phantisocracy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 Matthew Edward Adams</copyright>
+    <lastBuildDate>Sat, 12 May 2018 21:11:59 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.matthew-edward-adams.org/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secret Canyon Hike</title>
+      <link>http://www.matthew-edward-adams.org/photos/secret-canyon-hike/</link>
+      <pubDate>Sat, 12 May 2018 21:11:59 -0700</pubDate>
+      
+      <guid>http://www.matthew-edward-adams.org/photos/secret-canyon-hike/</guid>
+      <description>View this post on Instagram        Hike up Secret Canyon in the Pine Creek Wilderness. #secretcanyon #secretcanyontrail #pinecreekwilderness #espinosatrail #cortemadera #pinecreek #hike #hiker #12miles #leguin #lefthandofdarkness #readingwhilehiking</description>
+    </item>
+    
+    <item>
+      <title>Spring in Aix-en-Provence</title>
+      <link>http://www.matthew-edward-adams.org/photos/en-france-1-spring-2018/</link>
+      <pubDate>Wed, 04 Apr 2018 11:48:16 +0200</pubDate>
+      
+      <guid>http://www.matthew-edward-adams.org/photos/en-france-1-spring-2018/</guid>
+      <description>View this post on Instagram        Last couple of days: eating, apéros, walking around, cafés alongés, shopping for Type-A-stacked sardines. #aixenprovence #france #monop #sardines #hikinginfrance #stadtbummel #apéro #spread #cafealongé #getinmybelly #placedelhoteldeville #placerichelme #clocktower #beffroi #cogsworthdemeureaucoin #cogsworthlivesonthecorner</description>
+    </item>
+    
+    <item>
+      <title>Writing Nook</title>
+      <link>http://www.matthew-edward-adams.org/photos/writing-nook/</link>
+      <pubDate>Tue, 03 Apr 2018 15:39:06 +0200</pubDate>
+      
+      <guid>http://www.matthew-edward-adams.org/photos/writing-nook/</guid>
+      <description> My happiness corner in France. Writing, building a second brain, and dreaming. Also, lots of cheese.  </description>
+    </item>
+    
+    <item>
+      <title>Hike on March 29, 2018</title>
+      <link>http://www.matthew-edward-adams.org/photos/my-france-vacation/</link>
+      <pubDate>Sat, 31 Mar 2018 14:15:25 +0200</pubDate>
+      
+      <guid>http://www.matthew-edward-adams.org/photos/my-france-vacation/</guid>
+      <description> The creamy gray massif of Montagne Sainte-Victoire rises in the distance.  </description>
+    </item>
+    
+  </channel>
+</rss>

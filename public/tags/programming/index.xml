@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Phantisocracy</title>
+    <link>http://www.matthew-edward-adams.org/tags/programming/</link>
+    <description>Recent content in Programming on Phantisocracy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 Matthew Edward Adams</copyright>
+    <lastBuildDate>Fri, 04 Mar 2016 16:52:10 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.matthew-edward-adams.org/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digitial Humanities in Secondary Education: A Preview</title>
+      <link>http://www.matthew-edward-adams.org/posts/digitial-humanities-a-preview/</link>
+      <pubDate>Fri, 04 Mar 2016 16:52:10 +0200</pubDate>
+      
+      <guid>http://www.matthew-edward-adams.org/posts/digitial-humanities-a-preview/</guid>
+      <description>Over the past year, I&amp;rsquo;ve grown increasingly attracted to the idea of teaching a digital humanities course in a secondary education environment. I have three reasons for this:
+ Humanities-based education remains vitally important and must not fall by the wayside.</description>
+    </item>
+    
+  </channel>
+</rss>

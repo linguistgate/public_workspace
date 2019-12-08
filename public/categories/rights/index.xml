@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rights on Phantisocracy</title>
+    <link>http://www.matthew-edward-adams.org/categories/rights/</link>
+    <description>Recent content in Rights on Phantisocracy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 Matthew Edward Adams</copyright>
+    <lastBuildDate>Thu, 12 Apr 2018 16:54:57 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.matthew-edward-adams.org/categories/rights/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Hobbies</title>
+      <link>http://www.matthew-edward-adams.org/microposts/on-hobbies/</link>
+      <pubDate>Thu, 12 Apr 2018 16:54:57 -0700</pubDate>
+      
+      <guid>http://www.matthew-edward-adams.org/microposts/on-hobbies/</guid>
+      <description>Most hobbies that I take up seem to have a hidden element in them: They are about escaping control. Building a home server: Making sure I control my own 1s and 0s.</description>
+    </item>
+    
+  </channel>
+</rss>

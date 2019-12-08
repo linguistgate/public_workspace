@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orgmode on Phantisocracy</title>
+    <link>http://www.matthew-edward-adams.org/tags/orgmode/</link>
+    <description>Recent content in Orgmode on Phantisocracy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 Matthew Edward Adams</copyright>
+    <lastBuildDate>Tue, 03 Apr 2018 15:39:06 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.matthew-edward-adams.org/tags/orgmode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Writing Nook</title>
+      <link>http://www.matthew-edward-adams.org/photos/writing-nook/</link>
+      <pubDate>Tue, 03 Apr 2018 15:39:06 +0200</pubDate>
+      
+      <guid>http://www.matthew-edward-adams.org/photos/writing-nook/</guid>
+      <description> My happiness corner in France. Writing, building a second brain, and dreaming. Also, lots of cheese.  </description>
+    </item>
+    
+  </channel>
+</rss>

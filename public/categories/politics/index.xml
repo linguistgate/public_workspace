@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Politics on Phantisocracy</title>
+    <link>http://www.matthew-edward-adams.org/categories/politics/</link>
+    <description>Recent content in Politics on Phantisocracy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 Matthew Edward Adams</copyright>
+    <lastBuildDate>Sat, 31 Mar 2018 14:15:04 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.matthew-edward-adams.org/categories/politics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Microposting</title>
+      <link>http://www.matthew-edward-adams.org/microposts/on-microposting/</link>
+      <pubDate>Sat, 31 Mar 2018 14:15:04 +0200</pubDate>
+      
+      <guid>http://www.matthew-edward-adams.org/microposts/on-microposting/</guid>
+      <description>Microposting and microblogging may be the orders of the day, but this does not mean we have to submit to centralized corporate hierarchies to code up our microthoughts.</description>
+    </item>
+    
+  </channel>
+</rss>
