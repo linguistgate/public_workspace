@@ -1,0 +1,60 @@
+baseurl = "http://www.matthew-edward-adams.org/"
+title = "Phantisocracy"
+copyright = "Copyright &copy; 2018 Matthew Edward Adams"
+canonifyurls = true
+theme = "hugo-kiera"
+
+MetaDataFormat = "toml"
+
+paginate = 5
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+SectionPagesMenu = "main"
+
+[author]
+    name = "Matthew Edward Adams"
+    Handle = "linguistgate"
+    AboutPage = "/about"
+    github = "linguistgate"
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = "linguistgate"
+    instagram = "matthew.e.adams"
+
+[params]
+    RSSections = [ "Posts", "Microposts", "Photos"]
+    tagline = "The public workspace of Matthew E. Adams"
+
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = true # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  latexDashes = true
+
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"
+
+[[menu.main]]
+	name = "Posts"
+	weight = 1
+	identifier = "posts"
+	url = "/posts/"
+
+[[menu.main]]
+	name = "Microposts"
+	weight = 2
+	identifier = "microposts"
+	url = "/microposts/"
+
+[[menu.main]]
+	name = "Photos"
+	weight = 3
+	identifier = "photos"
+	url = "/photos/"
+
+
